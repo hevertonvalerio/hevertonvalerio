@@ -10,14 +10,15 @@ Olá eu sou o Heverton Lima 😄
   <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="width: 200px;" />
   </a>
+  <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
+  <img src="img/1677602982354.jpg" alt="tensorflow" style="width: 1000px;" />
+  </a>
   <h2 align="center"> Redes Neurais - Machine Learning - Ciência de Dados
 </div>
 
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
-    <img src="img/1677602982354.jpg" alt="tensorflow" style="width: 1000px;" />
-  </a>
+
 </div>
 
 
