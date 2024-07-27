@@ -8,9 +8,8 @@
 
 </div>
 
-<div align="center">
-<h2> Redes Neurais - Machine Learning - Ciência de Dados
-</h2> 
+<h2 align="center"> Redes Neurais - Machine Learning - Ciência de Dados
+
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
