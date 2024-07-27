@@ -7,7 +7,10 @@
 </div>
 
 
-### Redes Neurais
+![Meus Status no GitHub](https://github-readme-stats.vercel.app/api?username=hevertonvalerio&show_icons=true&theme=react&locate=pt-br)
+
+![Principais linguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonvalerio&hide_progress=true&theme=react&locate=pt-br)
+
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
@@ -15,7 +18,6 @@
   </a>
 </div>
 
-### Tecnologias
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
