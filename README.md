@@ -7,15 +7,15 @@
 </div>
 
 
-### Tensor Flow - Neural Network
+### Redes Neurais
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="width: 200px;" />
   </a>
-  <h3 style="margin: 0 0 0 10px;">Tensor Flow - Neural Network</h3>
 </div>
 
+### Tecnologias
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
