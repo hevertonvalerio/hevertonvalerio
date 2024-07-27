@@ -19,8 +19,6 @@ Olá eu sou o Heverton Lima 😄
 
 ---
 
-![Meus Status no GitHub](https://github-readme-stats.vercel.app/api?username=hevertonvalerio&show_icons=true&theme=react&locate=pt-br)
-
 ![Principais linguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonvalerio&hide_progress=true&theme=react&locate=pt-br)
 
 <div style="display: inline_block"><br/>
