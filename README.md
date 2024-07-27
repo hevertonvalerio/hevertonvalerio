@@ -6,7 +6,6 @@
 
 <h2>Olá eu sou o Heverton Lima 😄</h2> 
 
----
 </div>
 
 <div style="display: flex; align-items: center;">
