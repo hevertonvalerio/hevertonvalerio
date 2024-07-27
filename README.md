@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <p>Olá eu sou o Heverton Lima 😄</p>
+  <h2>Olá eu sou o Heverton Lima 😄</h2>
   <img src="img/1677602982354.jpg" alt="Imagem centralizada" style="display: block; margin: auto;">
 </div>
 
