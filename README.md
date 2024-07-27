@@ -7,6 +7,7 @@ Olá eu sou o Heverton Lima 😄
 
 </h2> 
 
+<img src="img/1677602982354.jpg" />
 
 <h2 align="center"> Redes Neurais - Machine Learning - Ciência de Dados
 
