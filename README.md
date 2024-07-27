@@ -6,9 +6,16 @@ Olá eu sou o Heverton Lima 😄
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](heverton.v.lima@gmail.com)
 
 
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="width: 200px;" />
+  </a>
+</div>
 
+<div>
+  <h2 align="center"> Redes Neurais - Machine Learning - Ciência de Dados
+</div>
 
-<h2 align="center"> Redes Neurais - Machine Learning - Ciência de Dados
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
@@ -17,11 +24,6 @@ Olá eu sou o Heverton Lima 😄
 </div>
 
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="width: 200px;" />
-  </a>
-</div>
 
 ---
 
