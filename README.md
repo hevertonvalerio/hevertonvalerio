@@ -8,6 +8,10 @@
 
 </div>
 
+<div align="center">
+<h2> Redes Neurais - Machine Learning - Ciência de Dados
+</h2> 
+
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="width: 200px;" />
