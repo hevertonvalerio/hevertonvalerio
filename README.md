@@ -18,12 +18,8 @@ Olá eu sou o Heverton Lima 😄
 
 
 <div style="display: flex; align-items: center;">
-
 </div>
 
-
-
----
 
 ![Principais linguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonvalerio&hide_progress=true&theme=react&locate=pt-br)
 
