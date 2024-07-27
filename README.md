@@ -7,11 +7,11 @@
 </div>
 
 
-### Tecnologias
+### Tensor Flow - Neural Network
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="width: 200px;" />
   </a>
   <h3 style="margin: 0 0 0 10px;">Tensor Flow - Neural Network</h3>
 </div>
