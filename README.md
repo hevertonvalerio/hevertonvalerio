@@ -7,7 +7,12 @@ Olá eu sou o Heverton Lima 😄
 
 </h2> 
 
-<img align="center" src="img/1677602982354.jpg" />
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
+    <img src="img/1677602982354.jpg" alt="tensorflow" style="width: 1000px;" />
+  </a>
+</div>
+
 
 <h2 align="center"> Redes Neurais - Machine Learning - Ciência de Dados
 
