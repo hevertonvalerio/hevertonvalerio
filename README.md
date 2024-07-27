@@ -18,7 +18,7 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width= height=""/>
   </a>
   <h3 style="margin: 0 0 0 10px;">Tensor Flow - Neural Network</h3>
 </div>
