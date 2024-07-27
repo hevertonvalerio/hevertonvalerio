@@ -7,7 +7,7 @@ Olá eu sou o Heverton Lima 😄
 
 ---
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
+  <a href="https://github.com/hevertonvalerio/TensorFlow/tree/main"_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="width: 200px;" />
   </a>
   <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
