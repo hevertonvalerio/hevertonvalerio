@@ -19,7 +19,9 @@ Olá eu sou o Heverton Lima 😄
 </div>
 </h2>
 
-[Projeto Deep Learning Vinicola CNN Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+
+Projeto Vinícola: Deep Learning, CNNs, TransferLearning - Inception_V3:
+[Projeto Deep Learning Vinicola](https://github.com/hevertonvalerio/vinicola_classificacao)
 
 
 <div style="display: flex; align-items: center;">
