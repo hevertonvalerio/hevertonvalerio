@@ -16,6 +16,8 @@ Olá eu sou o Heverton Lima 😄
   <h3 align="center"> Redes Neurais - Aprendizado de Máquina - Ciência de Dados
 </div>
 
+[Projeto Deep Learning Vinicola CNN Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+
 
 <div style="display: flex; align-items: center;">
 </div>
