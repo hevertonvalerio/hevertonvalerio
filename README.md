@@ -29,10 +29,6 @@ Projeto Challenge Bloomberg:
 [Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
 
 
-Projeto EDA:   
-Projeto Machine Learning:   
-Projeto Estatística:   
-
 <div style="display: flex; align-items: center;">
 </div>
 
