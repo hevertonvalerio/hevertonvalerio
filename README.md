@@ -24,10 +24,10 @@ Projeto EDA:
 [Exploratory Data Analysis, DataScience, CRISP-DM](https://github.com/hevertonvalerio/projeto_integrador_1_upm)
 
 Projeto Challenge Bloomberg: 
-[Deep Learning, TCNs, Times Series, Forecast Ativos](https://github.com/hevertonvalerio/Challenge-Bloomberg-Mack-AI))
+[Deep Learning, TCNs, Times Series, Forecast Ativos](https://github.com/hevertonvalerio/Challenge-Bloomberg-Mack-AI)
 
 Projeto Challenge ComexSolution: 
-[OCR, Classificação com IA](https://github.com/hevertonvalerio/COMEXSolution/tree/main))
+[OCR, Classificação com IA](https://github.com/hevertonvalerio/COMEXSolution/tree/main)
 
 ---
 <div style="display: flex; align-items: center;">
