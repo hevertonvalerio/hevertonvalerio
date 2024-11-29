@@ -21,7 +21,7 @@ Projeto Vinícola:
 [Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
 
 Projeto EDA: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+[Exploratory Data Analysis, DataScience, CRISP-DM](https://github.com/hevertonvalerio/projeto_integrador_1_upm)
 
 Projeto Challenge Bloomberg: 
 [Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
