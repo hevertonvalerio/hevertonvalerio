@@ -24,10 +24,10 @@ Projeto EDA:
 [Exploratory Data Analysis, DataScience, CRISP-DM](https://github.com/hevertonvalerio/projeto_integrador_1_upm)
 
 Projeto Challenge Bloomberg: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+[Deep Learning, TCNs, Times Series, Forecast Ativos](https://github.com/hevertonvalerio/Challenge-Bloomberg-Mack-AI))
 
 Projeto Challenge ComexSolution: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+[OCR, Classificação com IA](https://github.com/hevertonvalerio/vinicola_classificacao)
 
 ---
 <div style="display: flex; align-items: center;">
