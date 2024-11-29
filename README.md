@@ -41,15 +41,3 @@ Projeto Challenge Bloomberg:
  <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 </div>
-
-
----
-
-Projeto Vinícola: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
-
-Projeto EDA: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
-
-Projeto Challenge Bloomberg: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
