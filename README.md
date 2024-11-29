@@ -6,6 +6,17 @@ Olá eu sou o Heverton Lima 😄
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](heverton.v.lima@gmail.com)
 
 
+---
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
+  <img src="img/1677602982354.jpg" alt="tensorflow" style="width: 1000px;" />
+  </a>
+  <h3 align="center"> DataScience - IA - Deep Learning
+</div>
+  </h3>
+</div>
+</h2>
+
 Projeto Vinícola: 
 [Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
 
@@ -19,19 +30,12 @@ Projeto Challenge Bloomberg:
 <div style="display: flex; align-items: center;">
 </div>
 
----
-<div style="display: flex; align-items: center;">
+
+
   <a href="https://github.com/hevertonvalerio/TensorFlow/tree/main"_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" style="width: 200px;" />
   </a>
-  <a href="https://github.com/hevertonvalerio/TensorFlow/blob/main/README.md"_blank" rel="noreferrer">
-  <img src="img/1677602982354.jpg" alt="tensorflow" style="width: 1000px;" />
-  </a>
-  <h3 align="center"> DataScience - IA - Deep Learning
-</div>
-  </h3>
-</div>
-</h2>
+
 
 
 
