@@ -27,7 +27,7 @@ Projeto Challenge Bloomberg:
 [Deep Learning, TCNs, Times Series, Forecast Ativos](https://github.com/hevertonvalerio/Challenge-Bloomberg-Mack-AI))
 
 Projeto Challenge ComexSolution: 
-[OCR, Classificação com IA](https://github.com/hevertonvalerio/vinicola_classificacao)
+[OCR, Classificação com IA](https://github.com/hevertonvalerio/COMEXSolution/tree/main))
 
 ---
 <div style="display: flex; align-items: center;">
