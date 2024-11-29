@@ -5,6 +5,20 @@ Olá eu sou o Heverton Lima 😄
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heverton-valério-de-lima) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511919882710) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](heverton.v.lima@gmail.com)
 
+
+Projeto Vinícola: 
+[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+
+Projeto EDA: 
+[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+
+Projeto Challenge Bloomberg: 
+[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+
+---
+<div style="display: flex; align-items: center;">
+</div>
+
 ---
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/hevertonvalerio/TensorFlow/tree/main"_blank" rel="noreferrer">
@@ -19,18 +33,6 @@ Olá eu sou o Heverton Lima 😄
 </div>
 </h2>
 
-Projeto Vinícola: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
-
-Projeto EDA: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
-
-Projeto Challenge Bloomberg: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
-
----
-<div style="display: flex; align-items: center;">
-</div>
 
 
 ![Principais linguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hevertonvalerio&hide_progress=true&theme=react&locate=pt-br)
