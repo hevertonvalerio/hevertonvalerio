@@ -17,8 +17,7 @@ Olá eu sou o Heverton Lima 😄
 </div>
 </h2>
 
-Projeto Vinícola: 
-[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+Breve estudo sobre:[Relação entre as Áreas dentro de Inteligência Artificial e Ciência de Dados:](https://github.com/hevertonvalerio/hevertonvalerio/blob/main/Conceitos_IA_e_CD.ipynb)
 
 Projeto EDA: 
 [Exploratory Data Analysis, DataScience, CRISP-DM](https://github.com/hevertonvalerio/projeto_integrador_1_upm)
@@ -26,8 +25,13 @@ Projeto EDA:
 Projeto Challenge Bloomberg: 
 [Deep Learning, TCNs, Times Series, Forecast Ativos](https://github.com/hevertonvalerio/Challenge-Bloomberg-Mack-AI)
 
+Projeto Vinícola: 
+[Deep Learning, CNNs, TransferLearning - Inception_V3](https://github.com/hevertonvalerio/vinicola_classificacao)
+
 Projeto Challenge ComexSolution: 
 [OCR, Classificação com IA](https://github.com/hevertonvalerio/COMEXSolution/tree/main)
+
+
 
 ---
 <div style="display: flex; align-items: center;">
